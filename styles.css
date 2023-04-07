@@ -1,0 +1,24 @@
+.name {
+    margin: 3px;
+    padding: 10px;
+}
+
+.email {
+    margin: 3px;
+    padding: 10px;
+}
+
+.phone {
+    margin: 3px;
+    padding: 10px;
+}
+
+.asks {
+    margin: 3px;
+    padding: 10px;
+}
+
+#text-area {
+    margin: 3px;
+    padding: 10px;
+}
